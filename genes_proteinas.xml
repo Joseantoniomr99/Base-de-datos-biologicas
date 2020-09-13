@@ -1,0 +1,112 @@
+<DATA>
+
+	<ROW>
+		<id_genes>1</id_genes>
+		<id_proteinas>P42858</id_proteinas>
+	</ROW>
+
+	<ROW>
+		<id_genes>2</id_genes>
+		<id_proteinas>P13569</id_proteinas>
+	</ROW>
+
+	<ROW>
+		<id_genes>3</id_genes>
+		<id_proteinas>P68871</id_proteinas>
+	</ROW>
+
+	<ROW>
+		<id_genes>4</id_genes>
+		<id_proteinas>Q13956</id_proteinas>
+	</ROW>
+
+	<ROW>
+		<id_genes>5</id_genes>
+		<id_proteinas>Q81VL5</id_proteinas>
+	</ROW>
+
+	<ROW>
+		<id_genes>6</id_genes>
+		<id_proteinas>P01130</id_proteinas>
+	</ROW>
+
+	<ROW>
+		<id_genes>7</id_genes>
+		<id_proteinas>P21359</id_proteinas>
+	</ROW>
+
+	<ROW>
+		<id_genes>8</id_genes>
+		<id_proteinas>P02545</id_proteinas>
+	</ROW>
+
+	<ROW>
+		<id_genes>9</id_genes>
+		<id_proteinas>P35555</id_proteinas>
+	</ROW>
+
+	<ROW>
+		<id_genes>10</id_genes>
+		<id_proteinas>P11487</id_proteinas>
+	</ROW>
+
+	<ROW>
+		<id_genes>11</id_genes>
+		<id_proteinas>P00451</id_proteinas>
+	</ROW>
+
+	<ROW>
+		<id_genes>12</id_genes>
+		<id_proteinas>Q30201</id_proteinas>
+	</ROW>
+
+	<ROW>
+		<id_genes>13</id_genes>
+		<id_proteinas>P00439</id_proteinas>
+	</ROW>
+
+	<ROW>
+		<id_genes>14</id_genes>
+		<id_proteinas>P02452</id_proteinas>
+	</ROW>
+
+	<ROW>
+		<id_genes>15</id_genes>
+		<id_proteinas>P08123</id_proteinas>
+	</ROW>
+
+	<ROW>
+		<id_genes>16</id_genes>
+		<id_proteinas>P20908</id_proteinas>
+	</ROW>
+
+	<ROW>
+		<id_genes>17</id_genes>
+		<id_proteinas>P05997</id_proteinas>
+	</ROW>
+
+	<ROW>
+		<id_genes>18</id_genes>
+		<id_proteinas>O75695</id_proteinas>
+	</ROW>
+
+	<ROW>
+		<id_genes>19</id_genes>
+		<id_proteinas>P00441</id_proteinas>
+	</ROW>
+
+	<ROW>
+		<id_genes>20</id_genes>
+		<id_proteinas>Q15858</id_proteinas>
+	</ROW>
+
+	<ROW>
+		<id_genes>21</id_genes>
+		<id_proteinas>P04629</id_proteinas>
+	</ROW>
+
+	<ROW>
+		<id_genes>22</id_genes>
+		<id_proteinas>Q9H4Q4</id_proteinas>
+	</ROW>
+</DATA>

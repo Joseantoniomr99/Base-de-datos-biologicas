@@ -1,0 +1,547 @@
+<DATA>
+
+	<ROW>
+		<id_enfermedades>1</id_enfermedades>
+		<id_sintomas>1</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>1</id_enfermedades>
+		<id_sintomas>2</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>1</id_enfermedades>
+		<id_sintomas>3</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>1</id_enfermedades>
+		<id_sintomas>4</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>1</id_enfermedades>
+		<id_sintomas>5</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>2</id_enfermedades>
+		<id_sintomas>6</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>2</id_enfermedades>
+		<id_sintomas>7</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>2</id_enfermedades>
+		<id_sintomas>8</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>2</id_enfermedades>
+		<id_sintomas>9</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>2</id_enfermedades>
+		<id_sintomas>10</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>2</id_enfermedades>
+		<id_sintomas>11</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>2</id_enfermedades>
+		<id_sintomas>12</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>2</id_enfermedades>
+		<id_sintomas>13</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>3</id_enfermedades>
+		<id_sintomas>14</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>3</id_enfermedades>
+		<id_sintomas>15</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>3</id_enfermedades>
+		<id_sintomas>16</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>4</id_enfermedades>
+		<id_sintomas>17</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>4</id_enfermedades>
+		<id_sintomas>18</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>4</id_enfermedades>
+		<id_sintomas>19</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>4</id_enfermedades>
+		<id_sintomas>20</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>5</id_enfermedades>
+		<id_sintomas>21</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>5</id_enfermedades>
+		<id_sintomas>22</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>5</id_enfermedades>
+		<id_sintomas>23</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>6</id_enfermedades>
+		<id_sintomas>24</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>6</id_enfermedades>
+		<id_sintomas>25</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>6</id_enfermedades>
+		<id_sintomas>26</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>7</id_enfermedades>
+		<id_sintomas>27</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>7</id_enfermedades>
+		<id_sintomas>28</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>7</id_enfermedades>
+		<id_sintomas>29</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>7</id_enfermedades>
+		<id_sintomas>30</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>8</id_enfermedades>
+		<id_sintomas>10</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>8</id_enfermedades>
+		<id_sintomas>31</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>8</id_enfermedades>
+		<id_sintomas>32</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>8</id_enfermedades>
+		<id_sintomas>33</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>8</id_enfermedades>
+		<id_sintomas>34</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>8</id_enfermedades>
+		<id_sintomas>35</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>9</id_enfermedades>
+		<id_sintomas>36</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>9</id_enfermedades>
+		<id_sintomas>37</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>9</id_enfermedades>
+		<id_sintomas>38</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>9</id_enfermedades>
+		<id_sintomas>39</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>9</id_enfermedades>
+		<id_sintomas>40</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>9</id_enfermedades>
+		<id_sintomas>41</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>9</id_enfermedades>
+		<id_sintomas>42</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>9</id_enfermedades>
+		<id_sintomas>43</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>10</id_enfermedades>
+		<id_sintomas>44</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>10</id_enfermedades>
+		<id_sintomas>45</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>10</id_enfermedades>
+		<id_sintomas>46</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>10</id_enfermedades>
+		<id_sintomas>47</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>10</id_enfermedades>
+		<id_sintomas>48</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>11</id_enfermedades>
+		<id_sintomas>49</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>11</id_enfermedades>
+		<id_sintomas>50</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>11</id_enfermedades>
+		<id_sintomas>51</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>11</id_enfermedades>
+		<id_sintomas>52</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>11</id_enfermedades>
+		<id_sintomas>53</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>11</id_enfermedades>
+		<id_sintomas>54</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>11</id_enfermedades>
+		<id_sintomas>55</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>12</id_enfermedades>
+		<id_sintomas>56</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>12</id_enfermedades>
+		<id_sintomas>57</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>12</id_enfermedades>
+		<id_sintomas>58</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>12</id_enfermedades>
+		<id_sintomas>59</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>12</id_enfermedades>
+		<id_sintomas>60</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>12</id_enfermedades>
+		<id_sintomas>61</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>12</id_enfermedades>
+		<id_sintomas>13</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>13</id_enfermedades>
+		<id_sintomas>10</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>13</id_enfermedades>
+		<id_sintomas>57</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>13</id_enfermedades>
+		<id_sintomas>62</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>13</id_enfermedades>
+		<id_sintomas>63</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>13</id_enfermedades>
+		<id_sintomas>64</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>13</id_enfermedades>
+		<id_sintomas>65</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>13</id_enfermedades>
+		<id_sintomas>66</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>14</id_enfermedades>
+		<id_sintomas>67</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>14</id_enfermedades>
+		<id_sintomas>68</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>14</id_enfermedades>
+		<id_sintomas>69</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>14</id_enfermedades>
+		<id_sintomas>70</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>14</id_enfermedades>
+		<id_sintomas>71</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>14</id_enfermedades>
+		<id_sintomas>72</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>14</id_enfermedades>
+		<id_sintomas>73</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>14</id_enfermedades>
+		<id_sintomas>74</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>14</id_enfermedades>
+		<id_sintomas>75</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>14</id_enfermedades>
+		<id_sintomas>76</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>14</id_enfermedades>
+		<id_sintomas>77</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>15</id_enfermedades>
+		<id_sintomas>78</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>15</id_enfermedades>
+		<id_sintomas>79</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>15</id_enfermedades>
+		<id_sintomas>80</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>15</id_enfermedades>
+		<id_sintomas>81</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>15</id_enfermedades>
+		<id_sintomas>82</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>15</id_enfermedades>
+		<id_sintomas>83</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>16</id_enfermedades>
+		<id_sintomas>84</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>16</id_enfermedades>
+		<id_sintomas>85</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>16</id_enfermedades>
+		<id_sintomas>86</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>17</id_enfermedades>
+		<id_sintomas>87</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>17</id_enfermedades>
+		<id_sintomas>88</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>17</id_enfermedades>
+		<id_sintomas>89</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>17</id_enfermedades>
+		<id_sintomas>90</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>17</id_enfermedades>
+		<id_sintomas>91</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>17</id_enfermedades>
+		<id_sintomas>5</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>17</id_enfermedades>
+		<id_sintomas>92</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>17</id_enfermedades>
+		<id_sintomas>93</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>18</id_enfermedades>
+		<id_sintomas>94</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>18</id_enfermedades>
+		<id_sintomas>95</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>19</id_enfermedades>
+		<id_sintomas>96</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>20</id_enfermedades>
+		<id_sintomas>97</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>20</id_enfermedades>
+		<id_sintomas>98</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>20</id_enfermedades>
+		<id_sintomas>99</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>20</id_enfermedades>
+		<id_sintomas>100</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>20</id_enfermedades>
+		<id_sintomas>101</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>20</id_enfermedades>
+		<id_sintomas>102</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>20</id_enfermedades>
+		<id_sintomas>103</id_sintomas>
+	</ROW>
+
+	<ROW>
+		<id_enfermedades>20</id_enfermedades>
+		<id_sintomas>104</id_sintomas>
+	</ROW>
+</DATA>

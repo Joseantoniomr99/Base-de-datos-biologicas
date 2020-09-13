@@ -1,0 +1,156 @@
+<DATA>
+
+	<ROW>
+		<Id_gen>1</Id_gen>
+		<Nombre_genes>CFTR</Nombre_genes>
+		<Localizacion>Cromosoma 7 q31.2</Localizacion>
+		<longitud(bp)>189</longitud(bp)>
+	</ROW>
+
+	<ROW>
+		<Id_gen>2</Id_gen>
+		<Nombre_genes>COL1A1</Nombre_genes>
+		<Localizacion>Cromosoma 17 q21.33</Localizacion>
+		<longitud(bp)>18.343</longitud(bp)>
+	</ROW>
+
+	<ROW>
+		<Id_gen>3</Id_gen>
+		<Nombre_genes>COL1A2</Nombre_genes>
+		<Localizacion>Cromosoma 7 q21.3</Localizacion>
+		<longitud(bp)>37.332</longitud(bp)>
+	</ROW>
+
+	<ROW>
+		<Id_gen>4</Id_gen>
+		<Nombre_genes>COL5A1</Nombre_genes>
+		<Localizacion>Cromosoma 9 q34.3</Localizacion>
+		<longitud(bp)>203.04</longitud(bp)>
+	</ROW>
+
+	<ROW>
+		<Id_gen>5</Id_gen>
+		<Nombre_genes>COL5A2</Nombre_genes>
+		<Localizacion>Cromosoma 2 q32.2</Localizacion>
+		<longitud(bp)>193.414</longitud(bp)>
+	</ROW>
+
+	<ROW>
+		<Id_gen>6</Id_gen>
+		<Nombre_genes>F8</Nombre_genes>
+		<Localizacion>Cromosoma X q28</Localizacion>
+		<longitud(bp)>191.152</longitud(bp)>
+	</ROW>
+
+	<ROW>
+		<Id_gen>7</Id_gen>
+		<Nombre_genes>FBN1</Nombre_genes>
+		<Localizacion>Cromosoma 15 q21.1</Localizacion>
+		<longitud(bp)>237.543</longitud(bp)>
+	</ROW>
+
+	<ROW>
+		<Id_gen>8</Id_gen>
+		<Nombre_genes>FGF3</Nombre_genes>
+		<Localizacion>Cromosoma 11 q13.3</Localizacion>
+		<longitud(bp)>9.5</longitud(bp)>
+	</ROW>
+
+	<ROW>
+		<Id_gen>9</Id_gen>
+		<Nombre_genes>HBB</Nombre_genes>
+		<Localizacion>Cromosoma 11 p15.4</Localizacion>
+		<longitud(bp)>1.6</longitud(bp)>
+	</ROW>
+
+	<ROW>
+		<Id_gen>10</Id_gen>
+		<Nombre_genes>HFE</Nombre_genes>
+		<Localizacion>Cromosoma 6 p22.2</Localizacion>
+		<longitud(bp)>11</longitud(bp)>
+	</ROW>
+
+	<ROW>
+		<Id_gen>11</Id_gen>
+		<Nombre_genes>HTT</Nombre_genes>
+		<Localizacion>Cromosoma 4 p16.3</Localizacion>
+		<longitud(bp)>180</longitud(bp)>
+	</ROW>
+
+	<ROW>
+		<Id_gen>12</Id_gen>
+		<Nombre_genes>LDLR</Nombre_genes>
+		<Localizacion>Cromosoma 19 p13.2</Localizacion>
+		<longitud(bp)>44.388</longitud(bp)>
+	</ROW>
+
+	<ROW>
+		<Id_gen>13</Id_gen>
+		<Nombre_genes>LEPREL1</Nombre_genes>
+		<Localizacion>Cromosoma 3 q28</Localizacion>
+		<longitud(bp)>165.55</longitud(bp)>
+	</ROW>
+
+	<ROW>
+		<Id_gen>14</Id_gen>
+		<Nombre_genes>LMNA</Nombre_genes>
+		<Localizacion>Cromosoma 1 q22</Localizacion>
+		<longitud(bp)>57.516</longitud(bp)>
+	</ROW>
+
+	<ROW>
+		<Id_gen>15</Id_gen>
+		<Nombre_genes>NF1</Nombre_genes>
+		<Localizacion>Cromosoma 17 q11.2</Localizacion>
+		<longitud(bp)>350</longitud(bp)>
+	</ROW>
+
+	<ROW>
+		<Id_gen>16</Id_gen>
+		<Nombre_genes>NTRK1</Nombre_genes>
+		<Localizacion>Cromosoma 1 q23.1</Localizacion>
+		<longitud(bp)>25</longitud(bp)>
+	</ROW>
+
+	<ROW>
+		<Id_gen>17</Id_gen>
+		<Nombre_genes>PAH</Nombre_genes>
+		<Localizacion>Cromosoma 12 q23.2</Localizacion>
+		<longitud(bp)>121.5</longitud(bp)>
+	</ROW>
+
+	<ROW>
+		<Id_gen>18</Id_gen>
+		<Nombre_genes>PD6EH</Nombre_genes>
+		<Localizacion>Cromosoma 12 p12.3</Localizacion>
+		<longitud(bp)>8.823</longitud(bp)>
+	</ROW>
+
+	<ROW>
+		<Id_gen>19</Id_gen>
+		<Nombre_genes>PRMD12</Nombre_genes>
+		<Localizacion>Cromosoma 9 q34.12</Localizacion>
+		<longitud(bp)>18.389</longitud(bp)>
+	</ROW>
+
+	<ROW>
+		<Id_gen>20</Id_gen>
+		<Nombre_genes>RP2</Nombre_genes>
+		<Localizacion>Cromosoma X p11.3</Localizacion>
+		<longitud(bp)>45.315</longitud(bp)>
+	</ROW>
+
+	<ROW>
+		<Id_gen>21</Id_gen>
+		<Nombre_genes>SCN9A</Nombre_genes>
+		<Localizacion>Cromosoma 2 q24.3</Localizacion>
+		<longitud(bp)>180.816</longitud(bp)>
+	</ROW>
+
+	<ROW>
+		<Id_gen>22</Id_gen>
+		<Nombre_genes>SOD1</Nombre_genes>
+		<Localizacion>Cromosoma 21 q22.11</Localizacion>
+		<longitud(bp)>9.309</longitud(bp)>
+	</ROW>
+</DATA>

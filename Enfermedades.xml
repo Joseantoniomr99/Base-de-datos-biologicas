@@ -1,0 +1,122 @@
+<DATA>
+
+	<ROW>
+		<idenfermedades>1</idenfermedades>
+		<Nombre_enfermedad>Enfermedad de huntington</Nombre_enfermedad>
+		<Tipo_Herencia>Dominante</Tipo_Herencia>
+	</ROW>
+
+	<ROW>
+		<idenfermedades>2</idenfermedades>
+		<Nombre_enfermedad>Fibrosis quistica</Nombre_enfermedad>
+		<Tipo_Herencia>Recesiva</Tipo_Herencia>
+	</ROW>
+
+	<ROW>
+		<idenfermedades>3</idenfermedades>
+		<Nombre_enfermedad>Anemia falciforme</Nombre_enfermedad>
+		<Tipo_Herencia>Recesiva</Tipo_Herencia>
+	</ROW>
+
+	<ROW>
+		<idenfermedades>4</idenfermedades>
+		<Nombre_enfermedad>Daltonismo</Nombre_enfermedad>
+		<Tipo_Herencia>Recesiva</Tipo_Herencia>
+	</ROW>
+
+	<ROW>
+		<idenfermedades>5</idenfermedades>
+		<Nombre_enfermedad>Miopia</Nombre_enfermedad>
+		<Tipo_Herencia>Dominante</Tipo_Herencia>
+	</ROW>
+
+	<ROW>
+		<idenfermedades>6</idenfermedades>
+		<Nombre_enfermedad>Hipercolesterolemia familiar</Nombre_enfermedad>
+		<Tipo_Herencia>Dominante</Tipo_Herencia>
+	</ROW>
+
+	<ROW>
+		<idenfermedades>7</idenfermedades>
+		<Nombre_enfermedad>Neurofibromatosis tipo I</Nombre_enfermedad>
+		<Tipo_Herencia>Dominante</Tipo_Herencia>
+	</ROW>
+
+	<ROW>
+		<idenfermedades>8</idenfermedades>
+		<Nombre_enfermedad>Miocardiopatia dilatada familiar</Nombre_enfermedad>
+		<Tipo_Herencia>Dominante</Tipo_Herencia>
+	</ROW>
+
+	<ROW>
+		<idenfermedades>9</idenfermedades>
+		<Nombre_enfermedad>Sindrome de Marfan</Nombre_enfermedad>
+		<Tipo_Herencia>Dominante</Tipo_Herencia>
+	</ROW>
+
+	<ROW>
+		<idenfermedades>10</idenfermedades>
+		<Nombre_enfermedad>Acondroplasia</Nombre_enfermedad>
+		<Tipo_Herencia>Dominante</Tipo_Herencia>
+	</ROW>
+
+	<ROW>
+		<idenfermedades>11</idenfermedades>
+		<Nombre_enfermedad>hemofilia</Nombre_enfermedad>
+		<Tipo_Herencia>Recesiva</Tipo_Herencia>
+	</ROW>
+
+	<ROW>
+		<idenfermedades>12</idenfermedades>
+		<Nombre_enfermedad>hemocromatosis</Nombre_enfermedad>
+		<Tipo_Herencia>Recesiva</Tipo_Herencia>
+	</ROW>
+
+	<ROW>
+		<idenfermedades>13</idenfermedades>
+		<Nombre_enfermedad>Talasemia</Nombre_enfermedad>
+		<Tipo_Herencia>Dominante</Tipo_Herencia>
+	</ROW>
+
+	<ROW>
+		<idenfermedades>14</idenfermedades>
+		<Nombre_enfermedad>Fenilcetonuria</Nombre_enfermedad>
+		<Tipo_Herencia>Recesiva</Tipo_Herencia>
+	</ROW>
+
+	<ROW>
+		<idenfermedades>15</idenfermedades>
+		<Nombre_enfermedad>Osteogénesis imperfecta</Nombre_enfermedad>
+		<Tipo_Herencia>Dominante</Tipo_Herencia>
+	</ROW>
+
+	<ROW>
+		<idenfermedades>16</idenfermedades>
+		<Nombre_enfermedad>Sindrome de Ehlers-Danlos</Nombre_enfermedad>
+		<Tipo_Herencia>Dominante</Tipo_Herencia>
+	</ROW>
+
+	<ROW>
+		<idenfermedades>17</idenfermedades>
+		<Nombre_enfermedad>Retinosis pigmentaria</Nombre_enfermedad>
+		<Tipo_Herencia>Dominante</Tipo_Herencia>
+	</ROW>
+
+	<ROW>
+		<idenfermedades>18</idenfermedades>
+		<Nombre_enfermedad>Esclerosis lateral amiotrofica</Nombre_enfermedad>
+		<Tipo_Herencia>Recesiva</Tipo_Herencia>
+	</ROW>
+
+	<ROW>
+		<idenfermedades>19</idenfermedades>
+		<Nombre_enfermedad>Insensibilidad congenita al dolor</Nombre_enfermedad>
+		<Tipo_Herencia>Recesiva</Tipo_Herencia>
+	</ROW>
+
+	<ROW>
+		<idenfermedades>20</idenfermedades>
+		<Nombre_enfermedad>Progeria de Hutchinson-Gilford</Nombre_enfermedad>
+		<Tipo_Herencia>Dominante</Tipo_Herencia>
+	</ROW>
+</DATA>

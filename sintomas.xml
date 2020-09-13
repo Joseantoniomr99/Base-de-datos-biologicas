@@ -1,0 +1,522 @@
+<DATA>
+
+	<ROW>
+		<Id_sintomas>1</Id_sintomas>
+		<Descripcion>Movimientos espasm¢dicos</Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>2</Id_sintomas>
+		<Descripcion>Constractura muscular</Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>3</Id_sintomas>
+		<Descripcion>Movimientos oculares lentos</Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>4</Id_sintomas>
+		<Descripcion>Postura y equilibrio afectado</Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>5</Id_sintomas>
+		<Descripcion>Dificultad en la producci¢n f¡sica del habla</Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>6</Id_sintomas>
+		<Descripcion>Falta de aliento</Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>7</Id_sintomas>
+		<Descripcion>Infecciones pulmonares frecuentes</Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>8</Id_sintomas>
+		<Descripcion>Tos persistente</Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>9</Id_sintomas>
+		<Descripcion>Sibilancias</Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>10</Id_sintomas>
+		<Descripcion>Fatiga</Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>11</Id_sintomas>
+		<Descripcion>Congesti¢n nasal</Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>12</Id_sintomas>
+		<Descripcion>Dolor de est¢mago</Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>13</Id_sintomas>
+		<Descripcion>Perdida de peso</Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>14</Id_sintomas>
+		<Descripcion>Hinchaz¢n dolorosa de las manos y los pies</Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>15</Id_sintomas>
+		<Descripcion>Irritabilidad</Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>16</Id_sintomas>
+		<Descripcion>Color amarillento de piel</Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>17</Id_sintomas>
+		<Descripcion>Incapacidad absoluta de ver</Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>18</Id_sintomas>
+		<Descripcion>Movimiento involuntario y rapido de los ojos</Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>19</Id_sintomas>
+		<Descripcion>Sensibilidad a la luz</Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>20</Id_sintomas>
+		<Descripcion>Dificultades para ver correctamente</Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>21</Id_sintomas>
+		<Descripcion>Vision borrosa</Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>22</Id_sintomas>
+		<Descripcion>Necesidad de entrecerrar los parpados para ver con claridad</Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>23</Id_sintomas>
+		<Descripcion>Dolores de cabeza por fatiga ocular</Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>24</Id_sintomas>
+		<Descripcion>Depositos de grasa en la piel llamados xantomas sobre manos, codos , rodillas, tobillos y cornea</Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>25</Id_sintomas>
+		<Descripcion>Depositos de colesterol en los parpados</Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>26</Id_sintomas>
+		<Descripcion>Dolor toracico u otros signos de arteriopatia familiar</Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>27</Id_sintomas>
+		<Descripcion>Manchas cutaneas sin relieve de color marron</Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>28</Id_sintomas>
+		<Descripcion>Pecas en la zona de las axilas y la ingle</Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>29</Id_sintomas>
+		<Descripcion>Peque¤as protuberancias en el iris del ojo</Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>30</Id_sintomas>
+		<Descripcion>Protuberancias suaves del tama¤o de un guisante que se manifiestan sobre la piel o debajo de ella</Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>31</Id_sintomas>
+		<Descripcion>Dificultad para respirar cuando estas activo o acostado</Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>32</Id_sintomas>
+		<Descripcion>Menor capacidad para hacer ejercicio</Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>33</Id_sintomas>
+		<Descripcion>Hinchazon en las piernas, los tobillos y los pies</Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>34</Id_sintomas>
+		<Descripcion>Hinchazon en el abdomen debido a la acumulacion de liquido</Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>35</Id_sintomas>
+		<Descripcion>Dolor en el pecho</Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>36</Id_sintomas>
+		<Descripcion>Contextura alta y delgada</Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>37</Id_sintomas>
+		<Descripcion>Brazos, piernas y dedos desproporcionadamente largos</Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>38</Id_sintomas>
+		<Descripcion>Esternon que sobresale o se hunde</Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>39</Id_sintomas>
+		<Descripcion>Paladar alto y arqueado, y dientes api¤ados</Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>40</Id_sintomas>
+		<Descripcion>Soplos cardiacos</Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>41</Id_sintomas>
+		<Descripcion>Miopia extrema</Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>42</Id_sintomas>
+		<Descripcion>Espina dorsal anormalmente curvado</Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>43</Id_sintomas>
+		<Descripcion>Pie plano</Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>44</Id_sintomas>
+		<Descripcion>Apariencia anormal de las manos con un espacio persistente entre el dedo del corazon y el anular</Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>45</Id_sintomas>
+		<Descripcion>Pies en arco</Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>46</Id_sintomas>
+		<Descripcion>Disminucion del tono muscular </Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>47</Id_sintomas>
+		<Descripcion>Diferencia muy marcada del tama¤o de la cabeza con relacion al cuerpo</Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>48</Id_sintomas>
+		<Descripcion>Frente prominente</Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>49</Id_sintomas>
+		<Descripcion>Sangrado en las articulaciones y el correspondiente dolor e hinchazon</Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>50</Id_sintomas>
+		<Descripcion>Sangre en la orina o en las heces</Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>51</Id_sintomas>
+		<Descripcion>Hematomas</Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>52</Id_sintomas>
+		<Descripcion>Sangrado en vias urinarias y digestivas</Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>53</Id_sintomas>
+		<Descripcion>Sangrado nasal</Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>54</Id_sintomas>
+		<Descripcion>sangrado prolongado por heridos, extracciones dentales y cirugia</Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>55</Id_sintomas>
+		<Descripcion>Sangrado que empieza sin causa aparente</Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>56</Id_sintomas>
+		<Descripcion>Dolor abdominal</Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>57</Id_sintomas>
+		<Descripcion>Debilidad</Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>58</Id_sintomas>
+		<Descripcion>Oscurecimiento generalizado de la piel</Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>59</Id_sintomas>
+		<Descripcion>Dolor articular</Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>60</Id_sintomas>
+		<Descripcion>Perdida del vello corporal</Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>61</Id_sintomas>
+		<Descripcion>Perdida del deseo sexual</Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>62</Id_sintomas>
+		<Descripcion>Piel p lida</Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>63</Id_sintomas>
+		<Descripcion>Deformidades oseas faciales</Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>64</Id_sintomas>
+		<Descripcion>Crecimiento lento </Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>65</Id_sintomas>
+		<Descripcion>Hinchazon abdominal </Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>66</Id_sintomas>
+		<Descripcion>Orina oscura</Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>67</Id_sintomas>
+		<Descripcion>Retraso de las habilidad mentales y sociales</Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>68</Id_sintomas>
+		<Descripcion>Tama¤o de la cabeza mucho mas peque¤o de lo normal</Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>69</Id_sintomas>
+		<Descripcion>Hiperactividad</Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>70</Id_sintomas>
+		<Descripcion>Movimientos espasmodicos de brazos y piernas</Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>71</Id_sintomas>
+		<Descripcion>Discapacidad mental</Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>72</Id_sintomas>
+		<Descripcion>Convulsiones</Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>73</Id_sintomas>
+		<Descripcion>Erupcion cutanea</Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>74</Id_sintomas>
+		<Descripcion>Huesos que se rompen sin una causa conocida o por un tratamiento muy leve</Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>75</Id_sintomas>
+		<Descripcion>Dolor de huesos</Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>76</Id_sintomas>
+		<Descripcion>Anomalias osea</Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>77</Id_sintomas>
+		<Descripcion>Estatura baja</Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>78</Id_sintomas>
+		<Descripcion>Dientes fragiles</Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>79</Id_sintomas>
+		<Descripcion>Dolor de espalda</Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>80</Id_sintomas>
+		<Descripcion>Hiperlaxitud ligamentaria</Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>81</Id_sintomas>
+		<Descripcion>Piel que se estira, presenta equimosis y se da¤a facilmente</Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>82</Id_sintomas>
+		<Descripcion>Cicatrizacion facil y curacion de heridos deficiente</Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>83</Id_sintomas>
+		<Descripcion>Pies planos</Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>84</Id_sintomas>
+		<Descripcion>Aumento de la movilidad articular, crujido en las articulaciones, artritis temprana</Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>85</Id_sintomas>
+		<Descripcion>Disminuacion de la vision nocturna o cuando hay poca luz</Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>86</Id_sintomas>
+		<Descripcion>Perdida de las vision lateral</Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>87</Id_sintomas>
+		<Descripcion>Perdida de la vision central</Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>88</Id_sintomas>
+		<Descripcion>Dificultad para caminar o realizar actividades diarias normales</Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>89</Id_sintomas>
+		<Descripcion>Tropezones y caidas</Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>90</Id_sintomas>
+		<Descripcion>Debilidad en las piernas, los pies o los tobillos</Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>91</Id_sintomas>
+		<Descripcion>Torpeza en las manos</Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>92</Id_sintomas>
+		<Descripcion>Calambres musculares y espasmos en brazos, hombros y lengua</Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>93</Id_sintomas>
+		<Descripcion>Llanto, risa o bostezos inapropiados</Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>94</Id_sintomas>
+		<Descripcion>Cambios cognitivos y de comportamiento</Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>95</Id_sintomas>
+		<Descripcion>No se percibe el dolor</Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>96</Id_sintomas>
+		<Descripcion>Heridas, moratones y huesos rotos</Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>97</Id_sintomas>
+		<Descripcion>Retraso en el crecimiento</Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>98</Id_sintomas>
+		<Descripcion>Rostro angosto</Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>99</Id_sintomas>
+		<Descripcion>Cabeza desproporcionadamente grande para el rostro</Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>100</Id_sintomas>
+		<Descripcion>Ojos prominentes y cierre incompleto de los parpados</Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>101</Id_sintomas>
+		<Descripcion>Caida del cabellos</Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>102</Id_sintomas>
+		<Descripcion>Piel delgada, manchada y arrugada</Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>103</Id_sintomas>
+		<Descripcion>Venas visibles</Descripcion>
+	</ROW>
+
+	<ROW>
+		<Id_sintomas>104</Id_sintomas>
+		<Descripcion>Voz aguda</Descripcion>
+	</ROW>
+</DATA>

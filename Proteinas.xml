@@ -1,0 +1,156 @@
+<DATA>
+
+	<ROW>
+		<IdProteinas>O75695</IdProteinas>
+		<Estado>Reviewed</Estado>
+		<Nombre>Protein XRP2</Nombre>
+		<Longitud>350</Longitud>
+	</ROW>
+
+	<ROW>
+		<IdProteinas>P00439</IdProteinas>
+		<Estado>Reviewed</Estado>
+		<Nombre>Phenylalanine-4-hydroxylase</Nombre>
+		<Longitud>452</Longitud>
+	</ROW>
+
+	<ROW>
+		<IdProteinas>P00441</IdProteinas>
+		<Estado>Reviewed</Estado>
+		<Nombre>Superoxide dismutase[Cu-Zn]</Nombre>
+		<Longitud>154</Longitud>
+	</ROW>
+
+	<ROW>
+		<IdProteinas>P00451</IdProteinas>
+		<Estado>Reviewed</Estado>
+		<Nombre>Coagulation factor VIII</Nombre>
+		<Longitud>2351</Longitud>
+	</ROW>
+
+	<ROW>
+		<IdProteinas>P01130</IdProteinas>
+		<Estado>Reviewed</Estado>
+		<Nombre>Low-density lipoprotein receptor</Nombre>
+		<Longitud>860</Longitud>
+	</ROW>
+
+	<ROW>
+		<IdProteinas>P02452</IdProteinas>
+		<Estado>Reviewed</Estado>
+		<Nombre>Collagen alpha-1(I) chain</Nombre>
+		<Longitud>1464</Longitud>
+	</ROW>
+
+	<ROW>
+		<IdProteinas>P02545</IdProteinas>
+		<Estado>Reviewed</Estado>
+		<Nombre>Prelamin-A/C</Nombre>
+		<Longitud>664</Longitud>
+	</ROW>
+
+	<ROW>
+		<IdProteinas>P04629</IdProteinas>
+		<Estado>Reviewed</Estado>
+		<Nombre>High affinity nerve growth factor receptor</Nombre>
+		<Longitud>796</Longitud>
+	</ROW>
+
+	<ROW>
+		<IdProteinas>P05997</IdProteinas>
+		<Estado>Reviewed</Estado>
+		<Nombre>Collagen alpha-2(V) chain</Nombre>
+		<Longitud>1499</Longitud>
+	</ROW>
+
+	<ROW>
+		<IdProteinas>P08123</IdProteinas>
+		<Estado>Reviewed</Estado>
+		<Nombre>Collagen alpha-2(I) chain</Nombre>
+		<Longitud>1366</Longitud>
+	</ROW>
+
+	<ROW>
+		<IdProteinas>P11487</IdProteinas>
+		<Estado>Reviewed</Estado>
+		<Nombre>Fibroblast growth factor 3</Nombre>
+		<Longitud>239</Longitud>
+	</ROW>
+
+	<ROW>
+		<IdProteinas>P13569</IdProteinas>
+		<Estado>Reviewed</Estado>
+		<Nombre>Cystic fibrosis transmembrane conductance regulator</Nombre>
+		<Longitud>1480</Longitud>
+	</ROW>
+
+	<ROW>
+		<IdProteinas>P20908</IdProteinas>
+		<Estado>Reviewed</Estado>
+		<Nombre>Collagen alpha-1(V) chain</Nombre>
+		<Longitud>1838</Longitud>
+	</ROW>
+
+	<ROW>
+		<IdProteinas>P21359</IdProteinas>
+		<Estado>Reviewed</Estado>
+		<Nombre>Neurofibromin</Nombre>
+		<Longitud>2839</Longitud>
+	</ROW>
+
+	<ROW>
+		<IdProteinas>P35555</IdProteinas>
+		<Estado>Reviewed</Estado>
+		<Nombre>Fibrillin-1</Nombre>
+		<Longitud>2871</Longitud>
+	</ROW>
+
+	<ROW>
+		<IdProteinas>P42858</IdProteinas>
+		<Estado>Reviewed</Estado>
+		<Nombre>Huntingtin</Nombre>
+		<Longitud>3144</Longitud>
+	</ROW>
+
+	<ROW>
+		<IdProteinas>P68871</IdProteinas>
+		<Estado>Reviewed</Estado>
+		<Nombre>Hemoglobin subunit beta</Nombre>
+		<Longitud>147</Longitud>
+	</ROW>
+
+	<ROW>
+		<IdProteinas>Q13956</IdProteinas>
+		<Estado>Reviewed</Estado>
+		<Nombre>Retinal core rhodopsin-sensitive cGMP 3',5'-cyclic phosphodiesterase subunit gamma</Nombre>
+		<Longitud>83</Longitud>
+	</ROW>
+
+	<ROW>
+		<IdProteinas>Q15858</IdProteinas>
+		<Estado>Reviewed</Estado>
+		<Nombre>Sodium channel protein type 9 subunit alpha</Nombre>
+		<Longitud>1988</Longitud>
+	</ROW>
+
+	<ROW>
+		<IdProteinas>Q30201</IdProteinas>
+		<Estado>Reviewed</Estado>
+		<Nombre>Hereditary hemochromatosis protein</Nombre>
+		<Longitud>348</Longitud>
+	</ROW>
+
+	<ROW>
+		<IdProteinas>Q81VL5</IdProteinas>
+		<Estado>Reviewed</Estado>
+		<Nombre>Prolyl 3-hydroxylase 2</Nombre>
+		<Longitud>736</Longitud>
+	</ROW>
+
+	<ROW>
+		<IdProteinas>Q9H4Q4</IdProteinas>
+		<Estado>Reviewed</Estado>
+		<Nombre>PR domain zinc finger protein 12</Nombre>
+		<Longitud>367</Longitud>
+	</ROW>
+</DATA>

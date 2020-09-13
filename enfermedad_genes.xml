@@ -1,0 +1,122 @@
+<DATA>
+
+	<ROW>
+		<enf_id>1</enf_id>
+		<gen_id>1</gen_id>
+	</ROW>
+
+	<ROW>
+		<enf_id>2</enf_id>
+		<gen_id>2</gen_id>
+	</ROW>
+
+	<ROW>
+		<enf_id>3</enf_id>
+		<gen_id>3</gen_id>
+	</ROW>
+
+	<ROW>
+		<enf_id>4</enf_id>
+		<gen_id>4</gen_id>
+	</ROW>
+
+	<ROW>
+		<enf_id>5</enf_id>
+		<gen_id>5</gen_id>
+	</ROW>
+
+	<ROW>
+		<enf_id>6</enf_id>
+		<gen_id>6</gen_id>
+	</ROW>
+
+	<ROW>
+		<enf_id>7</enf_id>
+		<gen_id>7</gen_id>
+	</ROW>
+
+	<ROW>
+		<enf_id>8</enf_id>
+		<gen_id>8</gen_id>
+	</ROW>
+
+	<ROW>
+		<enf_id>9</enf_id>
+		<gen_id>9</gen_id>
+	</ROW>
+
+	<ROW>
+		<enf_id>10</enf_id>
+		<gen_id>10</gen_id>
+	</ROW>
+
+	<ROW>
+		<enf_id>11</enf_id>
+		<gen_id>11</gen_id>
+	</ROW>
+
+	<ROW>
+		<enf_id>12</enf_id>
+		<gen_id>12</gen_id>
+	</ROW>
+
+	<ROW>
+		<enf_id>13</enf_id>
+		<gen_id>3</gen_id>
+	</ROW>
+
+	<ROW>
+		<enf_id>14</enf_id>
+		<gen_id>13</gen_id>
+	</ROW>
+
+	<ROW>
+		<enf_id>15</enf_id>
+		<gen_id>14</gen_id>
+	</ROW>
+
+	<ROW>
+		<enf_id>15</enf_id>
+		<gen_id>15</gen_id>
+	</ROW>
+
+	<ROW>
+		<enf_id>16</enf_id>
+		<gen_id>16</gen_id>
+	</ROW>
+
+	<ROW>
+		<enf_id>16</enf_id>
+		<gen_id>17</gen_id>
+	</ROW>
+
+	<ROW>
+		<enf_id>17</enf_id>
+		<gen_id>18</gen_id>
+	</ROW>
+
+	<ROW>
+		<enf_id>18</enf_id>
+		<gen_id>19</gen_id>
+	</ROW>
+
+	<ROW>
+		<enf_id>19</enf_id>
+		<gen_id>20</gen_id>
+	</ROW>
+
+	<ROW>
+		<enf_id>19</enf_id>
+		<gen_id>21</gen_id>
+	</ROW>
+
+	<ROW>
+		<enf_id>19</enf_id>
+		<gen_id>22</gen_id>
+	</ROW>
+
+	<ROW>
+		<enf_id>20</enf_id>
+		<gen_id>8</gen_id>
+	</ROW>
+</DATA>
